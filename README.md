@@ -1,6 +1,8 @@
 # Project-Jupyter-NoteBooks
 
 ## Other Links
+
+### Google Colab
 - https://thefuturethinker.org/stable-diffusion-google-colab-ipynb-list/
 
 ## TTS Other Links
