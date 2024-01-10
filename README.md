@@ -11,3 +11,6 @@
 - https://github.com/suno-ai/bark
 - https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer
 - https://github.com/rsxdalv/tts-generation-webui
+
+### Image Creation
+- https://github.com/yangxy/GPEN
